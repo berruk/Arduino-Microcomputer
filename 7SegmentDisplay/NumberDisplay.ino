@@ -1,9 +1,9 @@
-Displayin 4-Digit Numbers
+//Displaying 4-Digit Numbers
 
-![image](https://user-images.githubusercontent.com/73575765/119224203-08fe1800-bb06-11eb-9299-3db2dd4950f8.png)
 
 
 ```
+
 int a = 6; //getting hex led pins
 int b = 5;
 int c = 4;
